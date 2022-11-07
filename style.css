@@ -259,5 +259,23 @@ span{
         top: -30%;
         right: 70%;
         width: 140%;
+       
+           .picholder{
+        height: 20vh;
+        position: relative;
+    }
+    
+
+    .editpic{
+        width: 100px;
+        position: absolute;
+        left: 0;
+    }
+
+    .side{
+        position: absolute;
+        left: 110px;
+        top: 40px;
+    }
     }
 }
